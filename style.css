@@ -1,0 +1,116 @@
+/*
+Universal selector for changing the all fonts
+*/
+*{
+ 
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 0px;
+}
+
+/* header section design*/
+.header-section {
+  background-image: url("images/donation3-modified.jpg");
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+  
+}
+
+ #head{
+  padding-top: 250px;
+  
+
+ }
+ 
+ .pera{
+  margin: 20px 15%;
+  display: block;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  
+}
+
+.btn-design a{
+  text-decoration: none;
+  color: white;
+  
+}
+.btn-design{
+  margin-left: 50%;
+  background-color: #e43b3b;
+  border: none;
+  padding: 8px;
+  border-radius: 3px;
+  font-weight: 700px;
+}
+
+.second-section{
+  margin-top: 60px;
+}
+.second-section h2,p{
+  text-align: center;
+}
+.flex-container{
+  display: flex;
+  
+}
+.second-subb{
+  margin-top: 20px;
+  margin-left: 13%;
+  background-color: rgb(217, 217, 217);
+  padding: 20px;
+  font-weight: 700px;
+}
+
+#default{
+  color: #e43b3b;
+  border: 2px solid red;
+  background-color: #d4a2a2;
+}
+
+#input-field{
+  margin-left: 40%;
+  margin-bottom: 15px;
+  padding: 5px 90px;
+  border: none;
+  border-bottom: 1px solid black;
+  
+}
+
+.third-section{
+  margin-top: 60px;
+}
+
+.third-section p,h1{
+  text-align: center;
+  padding: 15px;
+  padding-left: 0px;
+  margin-bottom: 10px;
+
+}
+
+
+
+.third-sub{
+  width: 30%;
+  margin-left: 2%;
+  padding: 10px;
+  text-align: justify;
+
+}
+.trhird-sub h5,p,img{
+  padding-bottom: 10px;
+  margin-left: 0;
+  padding-left: 0px;
+}
+#third-sub-one{
+  background-color: rgb(181, 176, 165);
+}
+#third-sub-two{
+  background-color: rosybrown;
+}
+#third-sub-three{
+  background-color: wheat;
+}
+
