@@ -114,3 +114,83 @@ Universal selector for changing the all fonts
   background-color: wheat;
 }
 
+.four-section{
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.four-two{
+  margin-left: 30%;
+  text-align: center;
+  padding: 8px;
+  width: 400px;
+  min-height: 110px;
+  background-color: wheat;
+}
+
+#input-design{
+  padding: 7px 5px;
+  display: inline;
+  background-color: rgb(246, 230, 230);
+  margin-left: 100px;
+  margin-top: 40px;
+
+}
+.btn{
+  color: white;
+  background-color: #e43b3b;
+  font-weight: 700px;
+  border: none;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+#footer-design {
+  background-color: rgba(0, 0, 0, 0.942);
+  padding-bottom: 10px;
+}
+#footer-design p{
+  color: white;
+  font-weight: 700px;
+  text-align: center;
+}
+#footer-design h1{
+  color: #d13636;
+  font-style: oblique;
+  font-family: Segoe Print;
+  font-weight: 700px;
+}
+
+/* Bonush section design */
+.bonush-section{
+  margin-top: 80px;
+}
+.donation{
+  text-align: center;
+  
+}
+.donation p{
+  text-align: center;
+  margin: 15px;
+  margin-left: 8%;
+
+
+}
+
+.donate-update-section{
+  width: 50%;
+  margin: 50px 5%;
+  box-shadow: 15px 10px 25px gray;
+  border-radius: 25px;
+}
+.donate-update-section p{
+  text-align: justify;
+}
+
+.donate-update-section img,h3,p{
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+
+}
